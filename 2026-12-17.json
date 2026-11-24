@@ -1,0 +1,113 @@
+{
+  "title": "2026-12-17 - Rappel allure semi 30 min",
+  "description": "Allures indicatives; ralentir si effort excessif ou douleur. 10 min libre + 5 min 5:40-5:50/km + 3 min 6:40-7:30/km + 5 min 5:40-5:50/km + 7 min libre",
+  "username": "",
+  "avatar": "",
+  "shareUrl": "https://img-cdn.zepp.com/20230911/outdoor.png",
+  "trainingIntervals": {
+    "type": "PARENT",
+    "children": [
+      {
+        "type": "NODE",
+        "trainingInterval": {
+          "intervalType": "0",
+          "intervalUnit": "1",
+          "intervalUnitValue": "600",
+          "alertRule": "0",
+          "alertRuleDetail": "0-0",
+          "lengthUnit": 0,
+          "intervalGuide": null,
+          "intervalGuideI18nKey": null,
+          "intervalTypeI18nKey": "gapType_warmup",
+          "intervalUnitI18nKey": null,
+          "alertRuleI18nKey": null,
+          "lengthUnitI18nKey": "gap_metric"
+        }
+      },
+      {
+        "type": "NODE",
+        "trainingInterval": {
+          "intervalType": "1",
+          "intervalUnit": "1",
+          "intervalUnitValue": "300",
+          "alertRule": "1",
+          "alertRuleDetail": "340-350",
+          "lengthUnit": 0,
+          "intervalGuide": null,
+          "intervalGuideI18nKey": null,
+          "intervalTypeI18nKey": "gapType_training",
+          "intervalUnitI18nKey": null,
+          "alertRuleI18nKey": "trainRemind_pace,,gap_Km",
+          "lengthUnitI18nKey": "gap_metric"
+        }
+      },
+      {
+        "type": "NODE",
+        "trainingInterval": {
+          "intervalType": "1",
+          "intervalUnit": "1",
+          "intervalUnitValue": "180",
+          "alertRule": "1",
+          "alertRuleDetail": "400-450",
+          "lengthUnit": 0,
+          "intervalGuide": null,
+          "intervalGuideI18nKey": null,
+          "intervalTypeI18nKey": "gapType_training",
+          "intervalUnitI18nKey": null,
+          "alertRuleI18nKey": "trainRemind_pace,,gap_Km",
+          "lengthUnitI18nKey": "gap_metric"
+        }
+      },
+      {
+        "type": "NODE",
+        "trainingInterval": {
+          "intervalType": "1",
+          "intervalUnit": "1",
+          "intervalUnitValue": "300",
+          "alertRule": "1",
+          "alertRuleDetail": "340-350",
+          "lengthUnit": 0,
+          "intervalGuide": null,
+          "intervalGuideI18nKey": null,
+          "intervalTypeI18nKey": "gapType_training",
+          "intervalUnitI18nKey": null,
+          "alertRuleI18nKey": "trainRemind_pace,,gap_Km",
+          "lengthUnitI18nKey": "gap_metric"
+        }
+      },
+      {
+        "type": "NODE",
+        "trainingInterval": {
+          "intervalType": "4",
+          "intervalUnit": "1",
+          "intervalUnitValue": "420",
+          "alertRule": "0",
+          "alertRuleDetail": "0-0",
+          "lengthUnit": 0,
+          "intervalGuide": null,
+          "intervalGuideI18nKey": null,
+          "intervalTypeI18nKey": "gapType_cooldown",
+          "intervalUnitI18nKey": null,
+          "alertRuleI18nKey": null,
+          "lengthUnitI18nKey": "gap_metric"
+        }
+      }
+    ]
+  },
+  "appName": "com.xiaomi.hm.health",
+  "createdAt": 1795497824271,
+  "updatedAt": 1795497824271,
+  "status": "AVAILABLE",
+  "trainingTypeId": 1,
+  "trainingTypeName": "户外跑",
+  "isOfficial": null,
+  "officialId": null,
+  "estimatedDistance": null,
+  "estimatedTime": null,
+  "titleI18nKey": null,
+  "descriptionI18nKey": null,
+  "target": null,
+  "targetI18nKey": null,
+  "difficulty": null,
+  "difficultyI18nKey": null
+}
