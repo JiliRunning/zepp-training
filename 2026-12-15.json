@@ -1,0 +1,79 @@
+{
+  "title": "2026-12-15 - Endurance 35 min",
+  "description": "Allures indicatives; ralentir si effort excessif ou douleur. 10 min libre + 20 min 6:30-7:00/km + 5 min libre",
+  "username": "",
+  "avatar": "",
+  "shareUrl": "https://img-cdn.zepp.com/20230911/outdoor.png",
+  "trainingIntervals": {
+    "type": "PARENT",
+    "children": [
+      {
+        "type": "NODE",
+        "trainingInterval": {
+          "intervalType": "0",
+          "intervalUnit": "1",
+          "intervalUnitValue": "600",
+          "alertRule": "0",
+          "alertRuleDetail": "0-0",
+          "lengthUnit": 0,
+          "intervalGuide": null,
+          "intervalGuideI18nKey": null,
+          "intervalTypeI18nKey": "gapType_warmup",
+          "intervalUnitI18nKey": null,
+          "alertRuleI18nKey": null,
+          "lengthUnitI18nKey": "gap_metric"
+        }
+      },
+      {
+        "type": "NODE",
+        "trainingInterval": {
+          "intervalType": "1",
+          "intervalUnit": "1",
+          "intervalUnitValue": "1200",
+          "alertRule": "1",
+          "alertRuleDetail": "390-420",
+          "lengthUnit": 0,
+          "intervalGuide": null,
+          "intervalGuideI18nKey": null,
+          "intervalTypeI18nKey": "gapType_training",
+          "intervalUnitI18nKey": null,
+          "alertRuleI18nKey": "trainRemind_pace,,gap_Km",
+          "lengthUnitI18nKey": "gap_metric"
+        }
+      },
+      {
+        "type": "NODE",
+        "trainingInterval": {
+          "intervalType": "4",
+          "intervalUnit": "1",
+          "intervalUnitValue": "300",
+          "alertRule": "0",
+          "alertRuleDetail": "0-0",
+          "lengthUnit": 0,
+          "intervalGuide": null,
+          "intervalGuideI18nKey": null,
+          "intervalTypeI18nKey": "gapType_cooldown",
+          "intervalUnitI18nKey": null,
+          "alertRuleI18nKey": null,
+          "lengthUnitI18nKey": "gap_metric"
+        }
+      }
+    ]
+  },
+  "appName": "com.xiaomi.hm.health",
+  "createdAt": 1795497824271,
+  "updatedAt": 1795497824271,
+  "status": "AVAILABLE",
+  "trainingTypeId": 1,
+  "trainingTypeName": "户外跑",
+  "isOfficial": null,
+  "officialId": null,
+  "estimatedDistance": null,
+  "estimatedTime": null,
+  "titleI18nKey": null,
+  "descriptionI18nKey": null,
+  "target": null,
+  "targetI18nKey": null,
+  "difficulty": null,
+  "difficultyI18nKey": null
+}
